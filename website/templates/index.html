@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Notes - Frictional For</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>Java Notes</h1>
+                <p class="author">by Frictional For</p>
+            </div>
+            <div class="search-container">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search notes and programs...">
+            </div>
+            <nav class="file-list" id="fileList">
+                <p class="loading">Loading files...</p>
+            </nav>
+        </aside>
+        <main class="main-content">
+            <div class="toolbar">
+                <button id="editBtn" class="btn btn-primary">Edit</button>
+                <button id="saveBtn" class="btn btn-success" style="display:none;">Save</button>
+                <button id="cancelBtn" class="btn btn-secondary" style="display:none;">Cancel</button>
+                <span id="status" class="status"></span>
+            </div>
+            <div class="content-wrapper">
+                <div id="viewMode" class="markdown-body"></div>
+                <textarea id="editMode" class="editor" style="display:none;" spellcheck="false"></textarea>
+            </div>
+        </main>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-java.min.js"></script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
