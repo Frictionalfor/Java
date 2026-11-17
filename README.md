@@ -1,6 +1,6 @@
 # Java Learning Journey
 
-> Ferb's comprehensive notes and practice programs while learning Java from basics to advanced concepts.
+> Frictional's comprehensive notes and practice programs while learning Java from basics to advanced concepts.
 
 ## About This Repository
 
@@ -9,6 +9,7 @@ This repository contains my Java learning journey, organized topic by topic. Eac
 ## Topics Covered
 
 ### Core Basics
+
 - JDK, JRE, and JVM architecture
 - IDE Setup
 - Basic Syntax and code structure
@@ -19,6 +20,7 @@ This repository contains my Java learning journey, organized topic by topic. Eac
 - Loops (for, while, do-while, enhanced for)
 
 ### Intermediate Core Java
+
 - Arrays (Single and Multi-dimensional)
 - String Handling (Immutability, String, StringBuilder, StringBuffer)
 - Methods (Parameters, return types, overloading)
@@ -33,6 +35,7 @@ This repository contains my Java learning journey, organized topic by topic. Eac
 - Exception Handling
 
 ### Advanced Java Foundations
+
 - Java Collections Framework
 - Generics
 - Lambda Expressions
@@ -44,6 +47,7 @@ This repository contains my Java learning journey, organized topic by topic. Eac
 - Concurrency Utilities
 
 ### Advanced & Enterprise Level
+
 - Memory Management
 - JDBC
 - Build Tools
@@ -54,12 +58,14 @@ This repository contains my Java learning journey, organized topic by topic. Eac
 ## How to Use
 
 ### Command Line
+
 1. Clone the repository
 2. Navigate to any topic folder
 3. Read the notes in `Notes.md` or individual topic files
 4. Run the Java programs to practice
 
 ### Website (Recommended)
+
 A web interface is included for easy viewing and editing:
 
 ```bash
@@ -72,6 +78,7 @@ python3 app.py
 Then open http://localhost:5000 in your browser.
 
 Features:
+
 - Browse all notes in sidebar
 - View formatted markdown
 - Edit notes directly in browser
@@ -84,6 +91,6 @@ To master Java programming from fundamentals to enterprise-level development.
 
 ## Author
 
-**Frictional For**
+**Frictionalfor**
 
-*Notes maintained by Ferb*
+_Notes maintained by Swanand Gajkeshwar_
