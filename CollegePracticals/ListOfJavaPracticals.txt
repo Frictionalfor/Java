@@ -1,0 +1,74 @@
+This is the list of all the practicals which i have to do with the code
+Rule:
+No comments and code should be simple and easy 
+file name should be practical(number of the practical).java
+
+Practical 2
+Aim: Write program to demonstrate use of if statements (all forms of if statement)
+
+Practical 3
+Aim: Write programs to demonstrate use of Switch Case Statement
+
+Practical 4
+Aim: Write program to demonstarte use of differnt types of loops (for, while and Do while)
+
+Practical 5
+Aim: Write program for implementaing methodes of: i) String class and ii) String buffer class
+
+Practical 6
+Aim: Write program to demonstrate use of array
+
+Practical 7
+Aim: Write program to demonstrat use of vectors
+
+Practical 8
+Aim: Write a program for implementation of Methode overloading
+
+Practical 9
+Aim: Write a program for implementation of Final Variables, methods, classes
+
+Practical 10
+Aim: Write a program for implementation of Dynamic method dispatch
+
+Practical 11
+Aim: Write a program using Wrapper class to convert Primitive data type into object
+
+Practical 12
+Aim: Write program using wrapper class to convert Object into primitive datatype
+
+Practical 13
+Aim: Develop program for implemetation of interface
+
+Practical 14
+Aim: Write program to demonstrate use of built-in packages
+
+Practical 15
+Aim: Write program to demonstrate use of User-defined packeages
+
+Practical 16
+Aim: Write program for implemetation of in-built and user define exception using, Try, catch and fiannly block and throw and throws clause.
+
+Practical 17
+Aim: Write program using multithreading
+
+Practical 18
+Aim: Program using collective interface
+
+Practical 19
+Aim: Write a program to preform file operations read, write, copy content from one file to another, write bytes using FileOutputStream and read bytes using FileInputStream
+
+Practical 20
+Aim: Write a program using AWT create a simple GUI with a label, text field, button and display greeeting message on button click
+
+Practical 21
+Aim: Write program to create a menu bar with various menu items and sub menu items
+
+Practical 22
+Aim: Write a program to demonstrate the use of border layout. The layout shows four buttons at four ssides with captions "left", "right", "top" and "bottom" using AWT components
+
+Practical 23
+Aim: Write program to design a calculator to demonstrate the use of grid layout using AWT
+
+Practical 24
+Aim: Write a program using JDBC to connect to any database and retrive all records from the students_info table
+
