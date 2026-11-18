@@ -1,7 +1,7 @@
 import java.util.Vector;
 class practical7 {
     public static void main(String args[]) {
-        Vector v = new Vector();
+        Vector<Integer> v = new Vector<>();
         v.add(10);
         v.add(20);
         v.add(30);

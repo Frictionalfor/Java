@@ -3,7 +3,7 @@ class practical24 {
     public static void main(String args[]) {
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root", "password");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root", "");
             Statement st = con.createStatement();
             ResultSet rs = st.executeQuery("select * from students_info");
             while (rs.next()) {
